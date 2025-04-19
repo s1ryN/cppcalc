@@ -1,2 +1,2 @@
 # cppcalc
-C++ Calc
+Kalkulačka v C++ pro základní funkce (+, -, *, :, %, ^)
